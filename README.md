@@ -4,7 +4,6 @@
 MonitorMAPA é um arquivo do tipo batch (.bat) do Windows.
 Testado no Windows 7, 8, 8.1, 10 e 11. Sendo o 11 com o melhor resultado visual.
 
-
 MonitorMAPA (C) 2023 Valmir Morais.
 -------------
 
