@@ -2,6 +2,7 @@
 -------------
 
 MonitorMAPA é um arquivo do tipo batch (.bat) do Windows.
+Testado no Windows 7, 8, 8.1, 10 e 11. Sendo o 11 com o melhor resultado visual.
 
 
 MonitorMAPA (C) 2023 Valmir Morais.
@@ -36,7 +37,7 @@ O ip, literalmente, é o IP do ativo de rede (ou nome totalmente qualificado) a 
 Devem estar separados por ":", de outra forma irá afetar o funcionamento do script.
   
   
-INSTALAÇÂO:
+INSTALAÇÃO:
 -------------
 
 O script roda a partir da pasta que estiver. 
