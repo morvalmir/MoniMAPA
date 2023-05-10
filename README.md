@@ -31,14 +31,16 @@ Instruções rápidas:
 	
 	O título para exibição deverá estar, obrigatoriamente, entre os colchetes. Caso não esteja, a formatação exibida na 
 	tela ficará fora do padrão esperado.
-  O "host" é um nome que desejar exibir o ativo. O ip, literalmente, é o IP do ativo de rede(ou nome totalmente qualificado) a monitorar.
-	Devem estar separados por ":", de outra forma irá afetar o funcionamento do script.
+O "host" é um nome que desejar exibir o ativo de rede. 
+O ip, literalmente, é o IP do ativo de rede (ou nome totalmente qualificado) a monitorar.
+Devem estar separados por ":", de outra forma irá afetar o funcionamento do script.
   
   
 INSTALAÇÂO:
 -------------
 
-O script roda a partir da pasta que estiver. O arquivo de configuração deve estar na mesma pasta do script.
+O script roda a partir da pasta que estiver. 
+O arquivo de configuração deve estar na mesma pasta do script.
 Basta descompactar, editar o arquivo com as informações precisas e executar o script.
 
 -------Easy to use-------
